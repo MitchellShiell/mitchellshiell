@@ -1,4 +1,4 @@
 
 <div>
-<img src="OvertureDesktop.jpg" width="100%">
+<img src="ov-readme.png" width="100%">
 </div>
