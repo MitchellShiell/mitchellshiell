@@ -30,7 +30,7 @@
 
 
 <div>
-<img align="left" hspace="30" src="icon-maestro.png" width="40">
+<img align="left" hspace="25" src="icon-maestro.png" width="40">
 
 
 ### **[Maestro](https://www.github.com/overture-stack/maestro)** sorts dispersed data into a single searchable Elasticsearch index
