@@ -1,13 +1,7 @@
-
-<div>
-<img src="ov-readme.png" width="100%">
-</div>
-
-</br>
+# Overture
 
 <div>
 <img align="left" hspace="30" src="icon-ego.png" width="33">
-</br>
 
 ### **Ego**, a user registration and permission management system. 
 
