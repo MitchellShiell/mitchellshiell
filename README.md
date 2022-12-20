@@ -1,1 +1,4 @@
-<img src="OvertureDesktop.jpeg" width="100vw">
+
+<div>
+<img src="OvertureDesktop.jpg" width="100%">
+</div>
