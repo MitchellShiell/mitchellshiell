@@ -3,7 +3,7 @@
 <div>
 <img align="left" hspace="30" src="icon-ego.png" width="33">
 
-### **Ego**, a user registration and permission management system. 
+### **[Ego](github.com/overture-stack/ego)**, a user registration and permission management system. 
 
 </div>
 
