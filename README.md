@@ -44,6 +44,6 @@
 <img align="left" hspace="30" vspace="20" src="icon-arranger.png" width="40">
 
 
-### **[Arranger]((https://www.github.com/overture-stack/arranger))** is a search API that interfaces with an Elasticsearch index. Arranger also includes a custom portal UI generator.
+### **[Arranger](https://www.github.com/overture-stack/arranger)** is a search API that interfaces with an Elasticsearch index. Arranger also includes a custom portal UI generator.
 
 
